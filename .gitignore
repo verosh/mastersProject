@@ -133,3 +133,4 @@ dmypy.json
 
 # pickle files
 .pickle
+src/modelling/facetouch_dataframes.pickle
