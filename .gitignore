@@ -131,4 +131,5 @@ dmypy.json
 # json files
 .json
 
+# pickle files
 .pickle
